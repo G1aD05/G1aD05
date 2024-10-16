@@ -5,3 +5,6 @@
 # My best work
 #### [Virtual Environment Manager](https://github.com/G1aD05/vmanager) (Vman)
 #### [F# Util](https://github.com/G1aD05/fsutil) (FSUtil)
+#### [Simple Terminal](https://github.com/G1aD05/simple-terminal)
+# Recently Updated
+#### [Simple Terminal](https://github.com/G1aD05/simple-terminal)
