@@ -1,5 +1,6 @@
 # Currently Working on
 #### [scratchcon](https://github.com/G1aD05/scratchcon)
+#### NIX (Still in the working, not released on GitHub yet)
 # Other Things
 #### [My scratch page](https://scratch.mit.edu/users/-G1aD0S-/)
 # My best work
